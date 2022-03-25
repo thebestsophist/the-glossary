@@ -610,6 +610,14 @@ entries:
     type: acronym
     term: Dynamic Small Business Search
 
+  DM&E:
+    type: acronym
+    description: Development, Modernization, and Enhancement (also DME)
+    
+  DME:
+    type: acronym
+    Description: Development, Modernization, and Enhancement (also DM&E)
+
   Dynamic Small Business Search:
     type: term
     description: null
